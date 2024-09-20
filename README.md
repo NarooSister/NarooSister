@@ -1,20 +1,13 @@
 <p align = "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&nbsp;there👋&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi&nbsp;there👋&fontSize=60" />
 </p>
 <br>
 <br>
 <p align="center">
-안녕하세요👋<br>
-백엔드 개발자 정동은입니다!
+<strong>안녕하세요👋<br>
+백엔드 개발자 정동은입니다!</strong>
 </p>
-
-<br><br>
-
-<p align="center">
-    <Strong>⚒️기술 스택⚒️</Strong><br>
-    
-</p>
-
+<br>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /><br>        
@@ -25,10 +18,6 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
 </p><br>
 
 
