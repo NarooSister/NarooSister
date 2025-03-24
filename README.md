@@ -3,7 +3,7 @@
 </p>
 <br>
 <br>
-<p align="center">
+<!-- <p align="center">
 <strong>안녕하세요👋<br>
 백엔드 개발자 정동은입니다!</strong>
 </p>
@@ -24,5 +24,5 @@
 <br>
 <div align=center>
   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongeun49)](https://solved.ac/dongeun49)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dongeun49)](https://solved.ac/dongeun49) -->
 </div>
